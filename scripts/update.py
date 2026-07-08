@@ -1,8 +1,4 @@
 
-builder.add('<p align="center">')
-builder.add('<img src="assets/cover.png" width="100%">')
-builder.add('</p>')
-builder.add("")
 """
 Update README
 """
@@ -17,6 +13,10 @@ builder = MarkdownBuilder()
 # -------------------------------------
 # Header
 # -------------------------------------
+builder.add('<p align="center">')
+builder.add('<img src="assets/cover.png" width="100%">')
+builder.add('</p>')
+builder.add("")
 
 builder.header()
 
