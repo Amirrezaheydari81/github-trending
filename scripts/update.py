@@ -1,74 +1,127 @@
-from sections import *
+"""
+Update README
+"""
+
+from markdown import MarkdownBuilder
+from sections import sections
+from config import README_FILE
 
 
-def markdown(title, repos):
+builder = MarkdownBuilder()
 
-    text = f"\n## {title}\n\n"
+# -------------------------------------
+# Header
+# -------------------------------------
 
-    text += "| Repository | Stars | Language |\n"
-    text += "|---|---|---|\n"
+builder.header()
 
+builder.intro()
+
+builder.toc()
+
+# -------------------------------------
+# Most Starred
+# -------------------------------------
+
+builder.section("⭐ پرستاره‌ترین ریپازیتوری‌های GitHub")
+
+for repo in sections.most_starred():
+    builder.repository(repo)
+
+builder.end_section()
+
+# -------------------------------------
+# Trending Today
+# -------------------------------------
+
+builder.section("🔥 ترند امروز")
+
+for repo in sections.trending_today():
+    builder.repository(repo)
+
+builder.end_section()
+
+# -------------------------------------
+# Trending Week
+# -------------------------------------
+
+builder.section("📈 ترند هفته")
+
+for repo in sections.trending_week():
+    builder.repository(repo)
+
+builder.end_section()
+
+# -------------------------------------
+# Trending Month
+# -------------------------------------
+
+builder.section("🚀 ترند ماه")
+
+for repo in sections.trending_month():
+    builder.repository(repo)
+
+builder.end_section()
+
+# -------------------------------------
+# Hidden Gems
+# -------------------------------------
+
+builder.section("💎 Hidden Gems")
+
+for repo in sections.hidden_gems():
+    builder.repository(repo)
+
+builder.end_section()
+
+# -------------------------------------
+# Languages
+# -------------------------------------
+
+languages = sections.languages()
+
+for language, repos in languages.items():
+
+    builder.section(f"🐍 {language}")
 
     for repo in repos:
 
-        text += (
-            f"| [{repo['full_name']}]"
-            f"({repo['html_url']}) "
-            f"| ⭐ {repo['stargazers_count']} "
-            f"| {repo['language']} |\n"
-        )
+        builder.repository(repo)
 
-    return text
+    builder.end_section()
 
+# -------------------------------------
+# Topics
+# -------------------------------------
 
+topics = sections.topics()
 
-content = """
+for topic, repos in topics.items():
 
-# GitHub Repository Explorer
+    builder.section(f"🏷 {topic.upper()}")
 
-Updated Daily 🚀
+    for repo in repos:
 
-"""
+        builder.repository(repo)
 
+    builder.end_section()
 
-content += markdown(
-    "⭐ Most Starred",
-    most_starred()
-)
+# -------------------------------------
+# Footer
+# -------------------------------------
 
+builder.footer()
 
-content += markdown(
-    "🔥 Trending Today",
-    trending_today()
-)
-
-
-content += markdown(
-    "📈 Trending This Week",
-    trending_week()
-)
-
-
-content += markdown(
-    "🚀 Trending This Month",
-    trending_month()
-)
-
-
-content += markdown(
-    "💎 Hidden Gems",
-    hidden_gems()
-)
-
-
+# -------------------------------------
+# Save
+# -------------------------------------
 
 with open(
-    "README.md",
+    README_FILE,
     "w",
-    encoding="utf8"
+    encoding="utf-8"
 ) as f:
 
-    f.write(content)
+    f.write(builder.build())
 
-
-print("README Updated")
+print("README updated successfully ✅")
