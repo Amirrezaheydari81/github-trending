@@ -25,4 +25,9 @@ def github_search(query, sort="stars", order="desc", limit=10):
         params=params
     )
 
-    return response.json()["items"]
+    data = response.json()
+
+    print(response.status_code)
+    print(data)
+    
+    return data.get("items", [])
