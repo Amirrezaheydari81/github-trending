@@ -3,40 +3,30 @@ name: Update Github Trending
 on:
   schedule:
     - cron: "*/10 * * * *"
-
   workflow_dispatch:
 
+permissions:
+  contents: write
 
 jobs:
-
   update:
-
     runs-on: ubuntu-latest
 
-
     steps:
+      - uses: actions/checkout@v4
 
-    - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - uses: actions/setup-python@v5
+      - name: Run Python
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scripts/update.py
 
-      with:
-        python-version: 3.12
-
-
-    - run:
-        pip install -r requirements.txt
-
-
-    - run:
-        python scripts/update.py
-
-
-    - uses:
-        stefanzweifel/git-auto-commit-action@v5
-
-      with:
-
-        commit_message:
-          "Daily update"
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily update"
