@@ -11,7 +11,7 @@
 > 🤖 هوش مصنوعی، Python، React، Docker و ...
 
 آخرین بروزرسانی:
-**2026-09-18 23:29 UTC**
+**2026-09-19 23:21 UTC**
 ---
 ## درباره پروژه
 
@@ -37,546 +37,546 @@
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ⭐ 548086 | Markdown |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ 507517 | - |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 481433 | Python |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455742 | TypeScript |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐ 397138 | Python |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | ⭐ 390057 | TypeScript |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 370667 | Python |
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | ⭐ 367626 | TypeScript |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 361168 | - |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 321557 | Python |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐ 320170 | - |
-| [obra/superpowers](https://github.com/obra/superpowers) | ⭐ 288545 | Shell |
-| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ⭐ 283775 | Python |
-| [996icu/996.ICU](https://github.com/996icu/996.ICU) | ⭐ 277146 | - |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 265255 | Shell |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 262025 | JavaScript |
-| [react/react](https://github.com/react/react) | ⭐ 250569 | JavaScript |
-| [torvalds/linux](https://github.com/torvalds/linux) | ⭐ 249436 | C |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 246903 | Python |
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐ 244573 | - |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ⭐ 548258 | Markdown |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ 507871 | - |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 481631 | Python |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455784 | TypeScript |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐ 397252 | Python |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | ⭐ 390097 | TypeScript |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 370772 | Python |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | ⭐ 367718 | TypeScript |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 361209 | - |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 321753 | Python |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐ 320384 | - |
+| [obra/superpowers](https://github.com/obra/superpowers) | ⭐ 288821 | Shell |
+| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ⭐ 283922 | Python |
+| [996icu/996.ICU](https://github.com/996icu/996.ICU) | ⭐ 277167 | - |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 265803 | Shell |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 262930 | JavaScript |
+| [react/react](https://github.com/react/react) | ⭐ 250593 | JavaScript |
+| [torvalds/linux](https://github.com/torvalds/linux) | ⭐ 249546 | C |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 247155 | Python |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐ 244778 | - |
 
 ---
 ## 🔥 ترند امروز
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [Continuum-AI-Corp/OrcaBonsai-27B-Uncensored](https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored) | ⭐ 356 | Python |
-| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | ⭐ 216 | Jupyter Notebook |
-| [eliasstravik/herdr-projects](https://github.com/eliasstravik/herdr-projects) | ⭐ 157 | Rust |
-| [arvindear/wp2shell-PoC](https://github.com/arvindear/wp2shell-PoC) | ⭐ 143 | Python |
-| [gylive/ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state) | ⭐ 139 | Go |
-| [chaseleantj/desktop-habitats](https://github.com/chaseleantj/desktop-habitats) | ⭐ 120 | JavaScript |
-| [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) | ⭐ 113 | - |
-| [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) | ⭐ 110 | TypeScript |
-| [indada/repopilot](https://github.com/indada/repopilot) | ⭐ 110 | TypeScript |
-| [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev) | ⭐ 106 | JavaScript |
-| [VDERR/echocat-skill-panel-3.0](https://github.com/VDERR/echocat-skill-panel-3.0) | ⭐ 99 | JavaScript |
-| [wy-coliney/jev-browser-use](https://github.com/wy-coliney/jev-browser-use) | ⭐ 90 | JavaScript |
-| [rit3zh/expo-dynamic-notifications](https://github.com/rit3zh/expo-dynamic-notifications) | ⭐ 64 | TypeScript |
-| [LingxiangXu/traceclause](https://github.com/LingxiangXu/traceclause) | ⭐ 58 | Python |
-| [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) | ⭐ 54 | Python |
-| [featherless-ai/simple-jev](https://github.com/featherless-ai/simple-jev) | ⭐ 49 | Python |
-| [dashscope-sdk/dashcope-sdk-python](https://github.com/dashscope-sdk/dashcope-sdk-python) | ⭐ 47 | Python |
-| [mrnugget/jev-shell-history](https://github.com/mrnugget/jev-shell-history) | ⭐ 42 | TypeScript |
-| [unicodef1wn/grokbot-field-notes](https://github.com/unicodef1wn/grokbot-field-notes) | ⭐ 40 | - |
-| [repoboost-hq/buy-github-accounts](https://github.com/repoboost-hq/buy-github-accounts) | ⭐ 38 | - |
+| [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | ⭐ 196 | Python |
+| [v-modal/awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) | ⭐ 177 | - |
+| [HyNetworks/OpenGFW](https://github.com/HyNetworks/OpenGFW) | ⭐ 137 | Go |
+| [joeseesun/qiaomu-download](https://github.com/joeseesun/qiaomu-download) | ⭐ 120 | Python |
+| [logan-markewich/jeff](https://github.com/logan-markewich/jeff) | ⭐ 107 | Python |
+| [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) | ⭐ 99 | Python |
+| [liushunqi8-hash/editaplot2026](https://github.com/liushunqi8-hash/editaplot2026) | ⭐ 84 | Python |
+| [Mak5er/AirCard-iOS](https://github.com/Mak5er/AirCard-iOS) | ⭐ 73 | Swift |
+| [uehaj/jev-semgrep](https://github.com/uehaj/jev-semgrep) | ⭐ 72 | JavaScript |
+| [hirotomasato/yowes](https://github.com/hirotomasato/yowes) | ⭐ 61 | Python |
+| [huangbai-AI/post-production-skill](https://github.com/huangbai-AI/post-production-skill) | ⭐ 51 | - |
+| [DanielLemky/omarchy-iphone-mirror](https://github.com/DanielLemky/omarchy-iphone-mirror) | ⭐ 47 | Python |
+| [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) | ⭐ 45 | Markdown |
+| [Mayuqi-crypto/everything-search-skill](https://github.com/Mayuqi-crypto/everything-search-skill) | ⭐ 42 | PowerShell |
+| [alaaqutfa/Discord-Zapret](https://github.com/alaaqutfa/Discord-Zapret) | ⭐ 38 | Batchfile |
+| [needtobreathe/AuditHook](https://github.com/needtobreathe/AuditHook) | ⭐ 37 | Vue |
+| [shhivv/third-hand](https://github.com/shhivv/third-hand) | ⭐ 36 | Swift |
+| [isas1/skills](https://github.com/isas1/skills) | ⭐ 34 | - |
+| [Saganaki22/ComfyUI-Hyperflow](https://github.com/Saganaki22/ComfyUI-Hyperflow) | ⭐ 30 | Python |
+| [little-greenbean/sub2api-state-reuse](https://github.com/little-greenbean/sub2api-state-reuse) | ⭐ 27 | Go |
 
 ---
 ## 📈 ترند هفته
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ⭐ 5417 | Python |
-| [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | ⭐ 3157 | TypeScript |
-| [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | ⭐ 1575 | Python |
-| [Chuloo/mural](https://github.com/Chuloo/mural) | ⭐ 1362 | Kotlin |
-| [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | ⭐ 1007 | Python |
-| [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) | ⭐ 881 | Python |
-| [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | ⭐ 879 | HTML |
-| [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) | ⭐ 859 | TypeScript |
-| [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) | ⭐ 858 | - |
-| [agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS) | ⭐ 846 | Rust |
-| [youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master) | ⭐ 763 | - |
-| [zhengkid/Dream-RSI](https://github.com/zhengkid/Dream-RSI) | ⭐ 753 | - |
-| [korcarc/text-humanizer](https://github.com/korcarc/text-humanizer) | ⭐ 725 | Python |
-| [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot) | ⭐ 710 | Python |
-| [rizqinrr/viserys-agent](https://github.com/rizqinrr/viserys-agent) | ⭐ 665 | JavaScript |
-| [theoephraim/awesome-cloudflare-selfhosted](https://github.com/theoephraim/awesome-cloudflare-selfhosted) | ⭐ 643 | JavaScript |
-| [shinthink/blitzstrike](https://github.com/shinthink/blitzstrike) | ⭐ 636 | TypeScript |
-| [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) | ⭐ 576 | C |
-| [letorig/video-generator-client](https://github.com/letorig/video-generator-client) | ⭐ 535 | Python |
+| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ⭐ 8286 | Python |
+| [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | ⭐ 4193 | TypeScript |
+| [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | ⭐ 2362 | Swift |
+| [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | ⭐ 1914 | Python |
+| [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | ⭐ 1527 | Python |
+| [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) | ⭐ 1243 | TypeScript |
+| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | ⭐ 1223 | Python |
+| [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) | ⭐ 975 | Python |
+| [zhengkid/Dream-RSI](https://github.com/zhengkid/Dream-RSI) | ⭐ 864 | - |
+| [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) | ⭐ 860 | Python |
+| [korcarc/text-humanizer](https://github.com/korcarc/text-humanizer) | ⭐ 729 | Python |
+| [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot) | ⭐ 728 | Python |
+| [theoephraim/awesome-cloudflare-selfhosted](https://github.com/theoephraim/awesome-cloudflare-selfhosted) | ⭐ 670 | JavaScript |
+| [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) | ⭐ 592 | C |
+| [jackwener/wx-cli-again](https://github.com/jackwener/wx-cli-again) | ⭐ 589 | Rust |
+| [arvindear/wp2shell-PoC](https://github.com/arvindear/wp2shell-PoC) | ⭐ 562 | Python |
+| [yynxxxxx/gpt_sub_analysis](https://github.com/yynxxxxx/gpt_sub_analysis) | ⭐ 540 | - |
+| [letorig/video-generator-client](https://github.com/letorig/video-generator-client) | ⭐ 536 | Python |
 | [ctdal/cve-2026-41940-PoC](https://github.com/ctdal/cve-2026-41940-PoC) | ⭐ 526 | Python |
+| [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | ⭐ 501 | Python |
 
 ---
 ## 🚀 ترند ماه
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | ⭐ 7418 | TypeScript |
-| [MengTo/threeui](https://github.com/MengTo/threeui) | ⭐ 5940 | HTML |
-| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | ⭐ 5877 | Python |
-| [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper) | ⭐ 5745 | JavaScript |
-| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | ⭐ 5448 | TypeScript |
-| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ⭐ 5417 | Python |
-| [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | ⭐ 5024 | HTML |
-| [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) | ⭐ 4373 | Python |
-| [crmne/spotifast](https://github.com/crmne/spotifast) | ⭐ 4371 | Rust |
-| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | ⭐ 4212 | TeX |
-| [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | ⭐ 3832 | Python |
-| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | ⭐ 3639 | TypeScript |
-| [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | ⭐ 3554 | Python |
+| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ⭐ 8286 | Python |
+| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | ⭐ 7537 | TypeScript |
+| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | ⭐ 6186 | Python |
+| [MengTo/threeui](https://github.com/MengTo/threeui) | ⭐ 5969 | HTML |
+| [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | ⭐ 5925 | HTML |
+| [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper) | ⭐ 5925 | JavaScript |
+| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | ⭐ 5573 | TypeScript |
+| [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) | ⭐ 4513 | Python |
+| [crmne/spotifast](https://github.com/crmne/spotifast) | ⭐ 4428 | Rust |
+| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | ⭐ 4211 | TeX |
+| [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | ⭐ 4193 | TypeScript |
+| [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | ⭐ 4126 | Python |
+| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | ⭐ 3668 | TypeScript |
+| [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef) | ⭐ 3665 | Python |
+| [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | ⭐ 3544 | - |
 | [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | ⭐ 3507 | TypeScript |
-| [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | ⭐ 3420 | - |
-| [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | ⭐ 3239 | TypeScript |
-| [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | ⭐ 3157 | TypeScript |
-| [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | ⭐ 3101 | TypeScript |
-| [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | ⭐ 2965 | Python |
-| [jub0t/Concat](https://github.com/jub0t/Concat) | ⭐ 2804 | Rust |
+| [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | ⭐ 3314 | TypeScript |
+| [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | ⭐ 3295 | TypeScript |
+| [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | ⭐ 2976 | Python |
+| [jub0t/Concat](https://github.com/jub0t/Concat) | ⭐ 2883 | Rust |
 
 ---
 ## 💎 Hidden Gems
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) | ⭐ 5000 | C |
+| [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) | ⭐ 5000 | TypeScript |
 | [tholman/github-corners](https://github.com/tholman/github-corners) | ⭐ 5000 | HTML |
 | [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) | ⭐ 4999 | C# |
+| [unovue/inspira-ui](https://github.com/unovue/inspira-ui) | ⭐ 4999 | Vue |
+| [taigrr/spank](https://github.com/taigrr/spank) | ⭐ 4998 | Go |
+| [rime/home](https://github.com/rime/home) | ⭐ 4997 | HTML |
 | [Trinea/android-common](https://github.com/Trinea/android-common) | ⭐ 4997 | Java |
-| [taigrr/spank](https://github.com/taigrr/spank) | ⭐ 4997 | Go |
 | [below/HelloSilicon](https://github.com/below/HelloSilicon) | ⭐ 4997 | Assembly |
-| [rime/home](https://github.com/rime/home) | ⭐ 4996 | HTML |
-| [2dust/clashN](https://github.com/2dust/clashN) | ⭐ 4996 | C# |
-| [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) | ⭐ 4996 | Lua |
+| [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) | ⭐ 4997 | Lua |
+| [2dust/clashN](https://github.com/2dust/clashN) | ⭐ 4995 | C# |
 | [alexwolfe/Buttons](https://github.com/alexwolfe/Buttons) | ⭐ 4995 | JavaScript |
 | [sintaxi/harp](https://github.com/sintaxi/harp) | ⭐ 4995 | JavaScript |
-| [ribot/android-guidelines](https://github.com/ribot/android-guidelines) | ⭐ 4995 | - |
 | [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) | ⭐ 4994 | Java |
 | [jazzband/django-silk](https://github.com/jazzband/django-silk) | ⭐ 4994 | Python |
-| [unovue/inspira-ui](https://github.com/unovue/inspira-ui) | ⭐ 4994 | Vue |
 | [pkuliyi2015/multidiffusion-upscaler-for-automatic1111](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111) | ⭐ 4994 | Python |
+| [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) | ⭐ 4994 | Objective-C |
 | [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) | ⭐ 4994 | Go |
-| [sktime/pytorch-forecasting](https://github.com/sktime/pytorch-forecasting) | ⭐ 4993 | Python |
-| [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) | ⭐ 4993 | Objective-C |
-| [ElasticHQ/elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) | ⭐ 4993 | JavaScript |
+| [ribot/android-guidelines](https://github.com/ribot/android-guidelines) | ⭐ 4994 | - |
+| [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) | ⭐ 4993 | TypeScript |
+| [zufuliu/notepad4](https://github.com/zufuliu/notepad4) | ⭐ 4993 | C++ |
 
 ---
 ## 🐍 Python
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 481433 | Python |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐ 397138 | Python |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 370667 | Python |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 321557 | Python |
-| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ⭐ 283775 | Python |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 246903 | Python |
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 224735 | Python |
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ⭐ 191978 | Python |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187438 | Python |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | ⭐ 185415 | Python |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 481631 | Python |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐ 397252 | Python |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 370772 | Python |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 321753 | Python |
+| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ⭐ 283922 | Python |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 247155 | Python |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 224780 | Python |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ⭐ 192151 | Python |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187452 | Python |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | ⭐ 185651 | Python |
 
 ---
 ## 🐍 JavaScript
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 262025 | JavaScript |
-| [react/react](https://github.com/react/react) | ⭐ 250569 | JavaScript |
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | ⭐ 196772 | JavaScript |
-| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | ⭐ 158672 | JavaScript |
-| [airbnb/javascript](https://github.com/airbnb/javascript) | ⭐ 148247 | JavaScript |
-| [vercel/next.js](https://github.com/vercel/next.js) | ⭐ 142342 | JavaScript |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ⭐ 142008 | JavaScript |
-| [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | ⭐ 129144 | JavaScript |
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 121998 | JavaScript |
-| [mrdoob/three.js](https://github.com/mrdoob/three.js) | ⭐ 115636 | JavaScript |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 262930 | JavaScript |
+| [react/react](https://github.com/react/react) | ⭐ 250593 | JavaScript |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | ⭐ 196776 | JavaScript |
+| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | ⭐ 158700 | JavaScript |
+| [airbnb/javascript](https://github.com/airbnb/javascript) | ⭐ 148249 | JavaScript |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ⭐ 142507 | JavaScript |
+| [vercel/next.js](https://github.com/vercel/next.js) | ⭐ 142368 | JavaScript |
+| [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | ⭐ 129166 | JavaScript |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 122013 | JavaScript |
+| [mrdoob/three.js](https://github.com/mrdoob/three.js) | ⭐ 115661 | JavaScript |
 
 ---
 ## 🐍 TypeScript
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455742 | TypeScript |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | ⭐ 390057 | TypeScript |
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | ⭐ 367626 | TypeScript |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 229106 | TypeScript |
-| [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212815 | TypeScript |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | ⭐ 208450 | TypeScript |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 205280 | TypeScript |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | ⭐ 192660 | TypeScript |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐ 182002 | TypeScript |
-| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156350 | TypeScript |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455784 | TypeScript |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | ⭐ 390097 | TypeScript |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | ⭐ 367718 | TypeScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 230000 | TypeScript |
+| [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212822 | TypeScript |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | ⭐ 208634 | TypeScript |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 205382 | TypeScript |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | ⭐ 192698 | TypeScript |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐ 182271 | TypeScript |
+| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156482 | TypeScript |
 
 ---
 ## 🐍 Go
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ⭐ 184680 | Go |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181229 | Go |
-| [golang/go](https://github.com/golang/go) | ⭐ 138881 | Go |
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | ⭐ 127816 | Go |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | ⭐ 111105 | Go |
-| [fatedier/frp](https://github.com/fatedier/frp) | ⭐ 109504 | Go |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ⭐ 106596 | Go |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ⭐ 90960 | Go |
-| [gohugoio/hugo](https://github.com/gohugoio/hugo) | ⭐ 89863 | Go |
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | ⭐ 89241 | Go |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ⭐ 184797 | Go |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181276 | Go |
+| [golang/go](https://github.com/golang/go) | ⭐ 138893 | Go |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | ⭐ 127838 | Go |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | ⭐ 111115 | Go |
+| [fatedier/frp](https://github.com/fatedier/frp) | ⭐ 109520 | Go |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ⭐ 106775 | Go |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ⭐ 91003 | Go |
+| [gohugoio/hugo](https://github.com/gohugoio/hugo) | ⭐ 89860 | Go |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | ⭐ 89236 | Go |
 
 ---
 ## 🐍 Rust
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | ⭐ 195261 | Rust |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 145316 | Rust |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | ⭐ 133567 | Rust |
-| [openai/codex](https://github.com/openai/codex) | ⭐ 125149 | Rust |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ⭐ 123946 | Rust |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | ⭐ 118936 | Rust |
-| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ⭐ 111167 | Rust |
-| [denoland/deno](https://github.com/denoland/deno) | ⭐ 108465 | Rust |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | ⭐ 95983 | Rust |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | ⭐ 94402 | Rust |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | ⭐ 195269 | Rust |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 145490 | Rust |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | ⭐ 133679 | Rust |
+| [openai/codex](https://github.com/openai/codex) | ⭐ 125302 | Rust |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ⭐ 124006 | Rust |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | ⭐ 118966 | Rust |
+| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ⭐ 111195 | Rust |
+| [denoland/deno](https://github.com/denoland/deno) | ⭐ 108472 | Rust |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | ⭐ 95985 | Rust |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | ⭐ 94476 | Rust |
 
 ---
 ## 🐍 PHP
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | ⭐ 73597 | PHP |
-| [coollabsio/coolify](https://github.com/coollabsio/coolify) | ⭐ 61996 | PHP |
-| [appwrite/appwrite](https://github.com/appwrite/appwrite) | ⭐ 57409 | PHP |
-| [nextcloud/server](https://github.com/nextcloud/server) | ⭐ 36847 | PHP |
-| [laravel/framework](https://github.com/laravel/framework) | ⭐ 34925 | PHP |
-| [filamentphp/filament](https://github.com/filamentphp/filament) | ⭐ 32085 | PHP |
-| [symfony/symfony](https://github.com/symfony/symfony) | ⭐ 31155 | PHP |
-| [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | ⭐ 30704 | PHP |
-| [composer/composer](https://github.com/composer/composer) | ⭐ 29523 | PHP |
-| [bagisto/bagisto](https://github.com/bagisto/bagisto) | ⭐ 28131 | PHP |
+| [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | ⭐ 73618 | PHP |
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | ⭐ 62030 | PHP |
+| [appwrite/appwrite](https://github.com/appwrite/appwrite) | ⭐ 57417 | PHP |
+| [nextcloud/server](https://github.com/nextcloud/server) | ⭐ 36862 | PHP |
+| [laravel/framework](https://github.com/laravel/framework) | ⭐ 34924 | PHP |
+| [filamentphp/filament](https://github.com/filamentphp/filament) | ⭐ 32090 | PHP |
+| [symfony/symfony](https://github.com/symfony/symfony) | ⭐ 31156 | PHP |
+| [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | ⭐ 30705 | PHP |
+| [composer/composer](https://github.com/composer/composer) | ⭐ 29524 | PHP |
+| [bagisto/bagisto](https://github.com/bagisto/bagisto) | ⭐ 28137 | PHP |
 
 ---
 ## 🐍 Java
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | ⭐ 130269 | Java |
-| [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | ⭐ 94707 | Java |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐ 92518 | Java |
-| [macrozheng/mall](https://github.com/macrozheng/mall) | ⭐ 84795 | Java |
-| [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | ⭐ 81471 | Java |
-| [doocs/advanced-java](https://github.com/doocs/advanced-java) | ⭐ 79115 | Java |
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | ⭐ 78898 | Java |
-| [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | ⭐ 77934 | Java |
-| [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | ⭐ 76707 | Java |
-| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | ⭐ 66273 | Java |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | ⭐ 130288 | Java |
+| [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | ⭐ 94708 | Java |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐ 92583 | Java |
+| [macrozheng/mall](https://github.com/macrozheng/mall) | ⭐ 84799 | Java |
+| [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | ⭐ 81473 | Java |
+| [doocs/advanced-java](https://github.com/doocs/advanced-java) | ⭐ 79118 | Java |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | ⭐ 79037 | Java |
+| [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | ⭐ 77937 | Java |
+| [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | ⭐ 76706 | Java |
+| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | ⭐ 66279 | Java |
 
 ---
 ## 🐍 C++
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | ⭐ 200175 | C++ |
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ⭐ 128732 | C++ |
-| [react/react-native](https://github.com/react/react-native) | ⭐ 126647 | C++ |
-| [electron/electron](https://github.com/electron/electron) | ⭐ 123145 | C++ |
-| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 117428 | C++ |
-| [microsoft/terminal](https://github.com/microsoft/terminal) | ⭐ 104929 | C++ |
-| [opencv/opencv](https://github.com/opencv/opencv) | ⭐ 90891 | C++ |
-| [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) | ⭐ 90201 | C++ |
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | ⭐ 77395 | C++ |
-| [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | ⭐ 76565 | C++ |
+| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | ⭐ 200194 | C++ |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ⭐ 128851 | C++ |
+| [react/react-native](https://github.com/react/react-native) | ⭐ 126660 | C++ |
+| [electron/electron](https://github.com/electron/electron) | ⭐ 123162 | C++ |
+| [godotengine/godot](https://github.com/godotengine/godot) | ⭐ 117471 | C++ |
+| [microsoft/terminal](https://github.com/microsoft/terminal) | ⭐ 104939 | C++ |
+| [opencv/opencv](https://github.com/opencv/opencv) | ⭐ 90895 | C++ |
+| [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) | ⭐ 90207 | C++ |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | ⭐ 77387 | C++ |
+| [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | ⭐ 76573 | C++ |
 
 ---
 ## 🐍 C#
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 116460 | C# |
-| [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | ⭐ 59551 | C# |
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | ⭐ 57278 | C# |
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | ⭐ 55451 | C# |
-| [files-community/Files](https://github.com/files-community/Files) | ⭐ 45519 | C# |
-| [ShareX/ShareX](https://github.com/ShareX/ShareX) | ⭐ 39637 | C# |
-| [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | ⭐ 38796 | C# |
-| [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | ⭐ 38449 | C# |
-| [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | ⭐ 32013 | C# |
-| [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) | ⭐ 31524 | C# |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 116529 | C# |
+| [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | ⭐ 59552 | C# |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | ⭐ 57301 | C# |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | ⭐ 55455 | C# |
+| [files-community/Files](https://github.com/files-community/Files) | ⭐ 45539 | C# |
+| [ShareX/ShareX](https://github.com/ShareX/ShareX) | ⭐ 39653 | C# |
+| [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | ⭐ 38801 | C# |
+| [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | ⭐ 38453 | C# |
+| [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | ⭐ 32014 | C# |
+| [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) | ⭐ 31529 | C# |
 
 ---
 ## 🐍 Swift
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ⭐ 114108 | Swift |
-| [swiftlang/swift](https://github.com/swiftlang/swift) | ⭐ 70349 | Swift |
-| [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) | ⭐ 53392 | Swift |
-| [apple/container](https://github.com/apple/container) | ⭐ 50047 | Swift |
-| [iina/iina](https://github.com/iina/iina) | ⭐ 46392 | Swift |
-| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | ⭐ 42419 | Swift |
-| [exelban/stats](https://github.com/exelban/stats) | ⭐ 41943 | Swift |
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | ⭐ 36249 | Swift |
-| [utmapp/UTM](https://github.com/utmapp/UTM) | ⭐ 35546 | Swift |
-| [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) | ⭐ 34221 | Swift |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ⭐ 114176 | Swift |
+| [swiftlang/swift](https://github.com/swiftlang/swift) | ⭐ 70350 | Swift |
+| [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) | ⭐ 53403 | Swift |
+| [apple/container](https://github.com/apple/container) | ⭐ 50068 | Swift |
+| [iina/iina](https://github.com/iina/iina) | ⭐ 46405 | Swift |
+| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | ⭐ 42417 | Swift |
+| [exelban/stats](https://github.com/exelban/stats) | ⭐ 41962 | Swift |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | ⭐ 36255 | Swift |
+| [utmapp/UTM](https://github.com/utmapp/UTM) | ⭐ 35559 | Swift |
+| [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) | ⭐ 34237 | Swift |
 
 ---
 ## 🐍 Kotlin
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | ⭐ 62834 | Kotlin |
-| [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | ⭐ 62798 | Kotlin |
-| [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | ⭐ 53561 | Kotlin |
-| [JetBrains/kotlin](https://github.com/JetBrains/kotlin) | ⭐ 53426 | Kotlin |
-| [gedoor/legado](https://github.com/gedoor/legado) | ⭐ 47074 | Kotlin |
-| [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) | ⭐ 47060 | Kotlin |
-| [android/architecture-samples](https://github.com/android/architecture-samples) | ⭐ 45832 | Kotlin |
-| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | ⭐ 41977 | Kotlin |
-| [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | ⭐ 36798 | Kotlin |
-| [alibaba/p3c](https://github.com/alibaba/p3c) | ⭐ 30853 | Kotlin |
+| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | ⭐ 62852 | Kotlin |
+| [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | ⭐ 62842 | Kotlin |
+| [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | ⭐ 53593 | Kotlin |
+| [JetBrains/kotlin](https://github.com/JetBrains/kotlin) | ⭐ 53433 | Kotlin |
+| [gedoor/legado](https://github.com/gedoor/legado) | ⭐ 47075 | Kotlin |
+| [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) | ⭐ 47061 | Kotlin |
+| [android/architecture-samples](https://github.com/android/architecture-samples) | ⭐ 45836 | Kotlin |
+| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | ⭐ 41995 | Kotlin |
+| [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | ⭐ 36799 | Kotlin |
+| [alibaba/p3c](https://github.com/alibaba/p3c) | ⭐ 30852 | Kotlin |
 
 ---
 ## 🐍 Dart
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [flutter/flutter](https://github.com/flutter/flutter) | ⭐ 179002 | Dart |
-| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 92027 | Dart |
-| [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | ⭐ 76826 | Dart |
-| [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | ⭐ 61232 | Dart |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 52611 | Dart |
-| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | ⭐ 49259 | Dart |
-| [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | ⭐ 32787 | Dart |
-| [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | ⭐ 30039 | Dart |
-| [ente/ente](https://github.com/ente/ente) | ⭐ 28956 | Dart |
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | ⭐ 26379 | Dart |
+| [flutter/flutter](https://github.com/flutter/flutter) | ⭐ 179011 | Dart |
+| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 92135 | Dart |
+| [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | ⭐ 76848 | Dart |
+| [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | ⭐ 61243 | Dart |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 52702 | Dart |
+| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | ⭐ 49288 | Dart |
+| [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | ⭐ 32811 | Dart |
+| [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | ⭐ 30072 | Dart |
+| [ente/ente](https://github.com/ente/ente) | ⭐ 28965 | Dart |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | ⭐ 26395 | Dart |
 
 ---
 ## 🏷 AI
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | ⭐ 390057 | TypeScript |
-| [obra/superpowers](https://github.com/obra/superpowers) | ⭐ 288545 | Shell |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 246903 | Python |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 205280 | TypeScript |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187438 | Python |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐ 182002 | TypeScript |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ 170691 | HTML |
-| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ⭐ 165008 | Python |
-| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | ⭐ 158672 | JavaScript |
-| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156350 | TypeScript |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | ⭐ 390097 | TypeScript |
+| [obra/superpowers](https://github.com/obra/superpowers) | ⭐ 288821 | Shell |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 247155 | Python |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 205382 | TypeScript |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187452 | Python |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐ 182271 | TypeScript |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ 170750 | HTML |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ⭐ 165026 | Python |
+| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | ⭐ 158700 | JavaScript |
+| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156482 | TypeScript |
 
 ---
 ## 🏷 LLM
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 262025 | JavaScript |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 246903 | Python |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187438 | Python |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐ 182002 | TypeScript |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181229 | Go |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ 170691 | HTML |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | ⭐ 166303 | Python |
-| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156350 | TypeScript |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | ⭐ 152497 | Python |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 146610 | Python |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 262930 | JavaScript |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 247155 | Python |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187452 | Python |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐ 182271 | TypeScript |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181276 | Go |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ 170750 | HTML |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | ⭐ 166386 | Python |
+| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156482 | TypeScript |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | ⭐ 152572 | Python |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 146683 | Python |
 
 ---
 ## 🏷 REACT
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455742 | TypeScript |
-| [react/react](https://github.com/react/react) | ⭐ 250569 | JavaScript |
-| [vercel/next.js](https://github.com/vercel/next.js) | ⭐ 142342 | JavaScript |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ⭐ 128826 | Python |
-| [react/react-native](https://github.com/react/react-native) | ⭐ 126647 | C++ |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ⭐ 124145 | TypeScript |
-| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ⭐ 118993 | - |
-| [react/create-react-app](https://github.com/react/create-react-app) | ⭐ 103254 | JavaScript |
-| [ant-design/ant-design](https://github.com/ant-design/ant-design) | ⭐ 99542 | TypeScript |
-| [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99060 | JavaScript |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455784 | TypeScript |
+| [react/react](https://github.com/react/react) | ⭐ 250593 | JavaScript |
+| [vercel/next.js](https://github.com/vercel/next.js) | ⭐ 142368 | JavaScript |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ⭐ 129057 | Python |
+| [react/react-native](https://github.com/react/react-native) | ⭐ 126660 | C++ |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ⭐ 124197 | TypeScript |
+| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ⭐ 119004 | - |
+| [react/create-react-app](https://github.com/react/create-react-app) | ⭐ 103255 | JavaScript |
+| [ant-design/ant-design](https://github.com/ant-design/ant-design) | ⭐ 99551 | TypeScript |
+| [mui/material-ui](https://github.com/mui/material-ui) | ⭐ 99058 | JavaScript |
 
 ---
 ## 🏷 VUE
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212815 | TypeScript |
-| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ⭐ 118993 | - |
-| [storybookjs/storybook](https://github.com/storybookjs/storybook) | ⭐ 91097 | TypeScript |
-| [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | ⭐ 90187 | Vue |
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80347 | TypeScript |
-| [marktext/marktext](https://github.com/marktext/marktext) | ⭐ 61577 | TypeScript |
-| [nuxt/nuxt](https://github.com/nuxt/nuxt) | ⭐ 60880 | TypeScript |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | ⭐ 58065 | Go |
-| [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54045 | Vue |
-| [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | ⭐ 53711 | TypeScript |
+| [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212822 | TypeScript |
+| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ⭐ 119004 | - |
+| [storybookjs/storybook](https://github.com/storybookjs/storybook) | ⭐ 91098 | TypeScript |
+| [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | ⭐ 90186 | Vue |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80357 | TypeScript |
+| [marktext/marktext](https://github.com/marktext/marktext) | ⭐ 61603 | TypeScript |
+| [nuxt/nuxt](https://github.com/nuxt/nuxt) | ⭐ 60881 | TypeScript |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | ⭐ 58077 | Go |
+| [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54044 | Vue |
+| [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | ⭐ 53749 | TypeScript |
 
 ---
 ## 🏷 ANGULAR
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ⭐ 118993 | - |
-| [angular/angular](https://github.com/angular/angular) | ⭐ 101013 | TypeScript |
-| [storybookjs/storybook](https://github.com/storybookjs/storybook) | ⭐ 91097 | TypeScript |
-| [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | ⭐ 66525 | JavaScript |
-| [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) | ⭐ 52671 | TypeScript |
-| [prettier/prettier](https://github.com/prettier/prettier) | ⭐ 52278 | JavaScript |
-| [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | ⭐ 46826 | JavaScript |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | ⭐ 45281 | Python |
+| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ⭐ 119004 | - |
+| [angular/angular](https://github.com/angular/angular) | ⭐ 101015 | TypeScript |
+| [storybookjs/storybook](https://github.com/storybookjs/storybook) | ⭐ 91098 | TypeScript |
+| [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | ⭐ 66527 | JavaScript |
+| [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) | ⭐ 52669 | TypeScript |
+| [prettier/prettier](https://github.com/prettier/prettier) | ⭐ 52286 | JavaScript |
+| [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | ⭐ 46829 | JavaScript |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | ⭐ 45319 | Python |
 | [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) | ⭐ 36342 | - |
-| [wailsapp/wails](https://github.com/wailsapp/wails) | ⭐ 36274 | Go |
+| [wailsapp/wails](https://github.com/wailsapp/wails) | ⭐ 36278 | Go |
 
 ---
 ## 🏷 NEXTJS
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ 170691 | HTML |
-| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156350 | TypeScript |
-| [vercel/next.js](https://github.com/vercel/next.js) | ⭐ 142342 | JavaScript |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ⭐ 124145 | TypeScript |
-| [supabase/supabase](https://github.com/supabase/supabase) | ⭐ 110141 | TypeScript |
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ⭐ 88790 | TypeScript |
-| [coollabsio/coolify](https://github.com/coollabsio/coolify) | ⭐ 61996 | PHP |
-| [appwrite/appwrite](https://github.com/appwrite/appwrite) | ⭐ 57409 | PHP |
-| [calcom/cal.diy](https://github.com/calcom/cal.diy) | ⭐ 48543 | TypeScript |
-| [payloadcms/payload](https://github.com/payloadcms/payload) | ⭐ 44817 | TypeScript |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | ⭐ 170750 | HTML |
+| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156482 | TypeScript |
+| [vercel/next.js](https://github.com/vercel/next.js) | ⭐ 142368 | JavaScript |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ⭐ 124197 | TypeScript |
+| [supabase/supabase](https://github.com/supabase/supabase) | ⭐ 110322 | TypeScript |
+| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ⭐ 88788 | TypeScript |
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | ⭐ 62030 | PHP |
+| [appwrite/appwrite](https://github.com/appwrite/appwrite) | ⭐ 57417 | PHP |
+| [calcom/cal.diy](https://github.com/calcom/cal.diy) | ⭐ 48563 | TypeScript |
+| [payloadcms/payload](https://github.com/payloadcms/payload) | ⭐ 44834 | TypeScript |
 
 ---
 ## 🏷 NODEJS
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455742 | TypeScript |
-| [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | ⭐ 129144 | JavaScript |
-| [electron/electron](https://github.com/electron/electron) | ⭐ 123145 | C++ |
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 121998 | JavaScript |
-| [immich-app/immich](https://github.com/immich-app/immich) | ⭐ 114552 | TypeScript |
-| [axios/axios](https://github.com/axios/axios) | ⭐ 109208 | JavaScript |
-| [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ⭐ 105624 | Dockerfile |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | ⭐ 95983 | Rust |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | ⭐ 95120 | Shell |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 82656 | Python |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455784 | TypeScript |
+| [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | ⭐ 129166 | JavaScript |
+| [electron/electron](https://github.com/electron/electron) | ⭐ 123162 | C++ |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 122013 | JavaScript |
+| [immich-app/immich](https://github.com/immich-app/immich) | ⭐ 114620 | TypeScript |
+| [axios/axios](https://github.com/axios/axios) | ⭐ 109205 | JavaScript |
+| [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ⭐ 105627 | Dockerfile |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | ⭐ 95985 | Rust |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | ⭐ 95131 | Shell |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 82702 | Python |
 
 ---
 ## 🏷 DOCKER
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐ 92518 | Java |
-| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 91539 | JavaScript |
-| [macrozheng/mall](https://github.com/macrozheng/mall) | ⭐ 84795 | Java |
-| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | ⭐ 84519 | Python |
-| [netdata/netdata](https://github.com/netdata/netdata) | ⭐ 80574 | Go |
-| [moby/moby](https://github.com/moby/moby) | ⭐ 72108 | Go |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 67830 | Rust |
-| [traefik/traefik](https://github.com/traefik/traefik) | ⭐ 64898 | Go |
-| [usememos/memos](https://github.com/usememos/memos) | ⭐ 63158 | Go |
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐ 62388 | Python |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐ 92583 | Java |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 91570 | JavaScript |
+| [macrozheng/mall](https://github.com/macrozheng/mall) | ⭐ 84799 | Java |
+| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | ⭐ 84524 | Python |
+| [netdata/netdata](https://github.com/netdata/netdata) | ⭐ 80592 | Go |
+| [moby/moby](https://github.com/moby/moby) | ⭐ 72113 | Go |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 67864 | Rust |
+| [traefik/traefik](https://github.com/traefik/traefik) | ⭐ 64904 | Go |
+| [usememos/memos](https://github.com/usememos/memos) | ⭐ 63178 | Go |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐ 62420 | Python |
 
 ---
 ## 🏷 KUBERNETES
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | ⭐ 127816 | Go |
-| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | ⭐ 84519 | Python |
-| [netdata/netdata](https://github.com/netdata/netdata) | ⭐ 80574 | Go |
-| [traefik/traefik](https://github.com/traefik/traefik) | ⭐ 64898 | Go |
-| [minio/minio](https://github.com/minio/minio) | ⭐ 61362 | Go |
-| [etcd-io/etcd](https://github.com/etcd-io/etcd) | ⭐ 52274 | Go |
-| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | ⭐ 47913 | - |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | ⭐ 127838 | Go |
+| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | ⭐ 84524 | Python |
+| [netdata/netdata](https://github.com/netdata/netdata) | ⭐ 80592 | Go |
+| [traefik/traefik](https://github.com/traefik/traefik) | ⭐ 64904 | Go |
+| [minio/minio](https://github.com/minio/minio) | ⭐ 61357 | Go |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | ⭐ 52276 | Go |
+| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | ⭐ 47915 | - |
 | [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | ⭐ 46479 | JavaScript |
-| [Kong/kong](https://github.com/Kong/kong) | ⭐ 44153 | Lua |
-| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | ⭐ 40938 | JavaScript |
+| [Kong/kong](https://github.com/Kong/kong) | ⭐ 44154 | Lua |
+| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | ⭐ 40942 | JavaScript |
 
 ---
 ## 🏷 FLUTTER
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [flutter/flutter](https://github.com/flutter/flutter) | ⭐ 179002 | Dart |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ⭐ 123946 | Rust |
-| [immich-app/immich](https://github.com/immich-app/immich) | ⭐ 114552 | TypeScript |
-| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 92027 | Dart |
-| [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | ⭐ 76826 | Dart |
-| [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | ⭐ 61232 | Dart |
-| [appwrite/appwrite](https://github.com/appwrite/appwrite) | ⭐ 57409 | PHP |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 52611 | Dart |
-| [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | ⭐ 52174 | - |
-| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | ⭐ 49259 | Dart |
+| [flutter/flutter](https://github.com/flutter/flutter) | ⭐ 179011 | Dart |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ⭐ 124006 | Rust |
+| [immich-app/immich](https://github.com/immich-app/immich) | ⭐ 114620 | TypeScript |
+| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 92135 | Dart |
+| [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | ⭐ 76848 | Dart |
+| [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | ⭐ 61243 | Dart |
+| [appwrite/appwrite](https://github.com/appwrite/appwrite) | ⭐ 57417 | PHP |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 52702 | Dart |
+| [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | ⭐ 52185 | - |
+| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | ⭐ 49288 | Dart |
 
 ---
 ## 🏷 SECURITY
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐ 244573 | - |
-| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ⭐ 120717 | - |
-| [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | ⭐ 83534 | - |
-| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | ⭐ 80964 | Python |
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 75842 | Go |
-| [usestrix/strix](https://github.com/usestrix/strix) | ⭐ 63549 | Python |
-| [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) | ⭐ 49551 | C++ |
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | ⭐ 48138 | TypeScript |
-| [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | ⭐ 45088 | Python |
-| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | ⭐ 41157 | Rust |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐ 244778 | - |
+| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ⭐ 120786 | - |
+| [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | ⭐ 83543 | - |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | ⭐ 80982 | Python |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 75859 | Go |
+| [usestrix/strix](https://github.com/usestrix/strix) | ⭐ 63707 | Python |
+| [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) | ⭐ 49557 | C++ |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | ⭐ 48193 | TypeScript |
+| [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | ⭐ 45094 | Python |
+| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | ⭐ 41161 | Rust |
 
 ---
 ## 🏷 LINUX
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐ 244573 | - |
-| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ⭐ 162439 | - |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 145316 | Rust |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ⭐ 123946 | Rust |
-| [nodejs/node](https://github.com/nodejs/node) | ⭐ 121998 | JavaScript |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | ⭐ 92051 | Python |
-| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | ⭐ 84519 | Python |
-| [netdata/netdata](https://github.com/netdata/netdata) | ⭐ 80574 | Go |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | ⭐ 79596 | Python |
-| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | ⭐ 79357 | C |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐ 244778 | - |
+| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ⭐ 162459 | - |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 145490 | Rust |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ⭐ 124006 | Rust |
+| [nodejs/node](https://github.com/nodejs/node) | ⭐ 122013 | JavaScript |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | ⭐ 92130 | Python |
+| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | ⭐ 84524 | Python |
+| [netdata/netdata](https://github.com/netdata/netdata) | ⭐ 80592 | Go |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | ⭐ 79602 | Python |
+| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | ⭐ 79383 | C |
 
 ---
 ## 🏷 DEVOPS
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐ 244573 | - |
-| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | ⭐ 84519 | Python |
-| [netdata/netdata](https://github.com/netdata/netdata) | ⭐ 80574 | Go |
-| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | ⭐ 74041 | - |
-| [nektos/act](https://github.com/nektos/act) | ⭐ 72056 | Go |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | ⭐ 58065 | Go |
-| [getsentry/sentry](https://github.com/getsentry/sentry) | ⭐ 44801 | Python |
-| [Kong/kong](https://github.com/Kong/kong) | ⭐ 44153 | Lua |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐ 244778 | - |
+| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | ⭐ 84524 | Python |
+| [netdata/netdata](https://github.com/netdata/netdata) | ⭐ 80592 | Go |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | ⭐ 74052 | - |
+| [nektos/act](https://github.com/nektos/act) | ⭐ 72061 | Go |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | ⭐ 58077 | Go |
+| [getsentry/sentry](https://github.com/getsentry/sentry) | ⭐ 44803 | Python |
+| [Kong/kong](https://github.com/Kong/kong) | ⭐ 44154 | Lua |
 | [httpie/cli](https://github.com/httpie/cli) | ⭐ 38532 | Python |
-| [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | ⭐ 37370 | TypeScript |
+| [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | ⭐ 37386 | TypeScript |
 
 ---
 ## 🏷 AUTOMATION
 
 | پروژه | ⭐ | زبان |
 |-------|------|------|
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 205280 | TypeScript |
-| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156350 | TypeScript |
-| [microsoft/playwright](https://github.com/microsoft/playwright) | ⭐ 96332 | TypeScript |
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | ⭐ 95590 | TypeScript |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ⭐ 83114 | Python |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐ 82168 | Python |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ 75293 | Python |
-| [huginn/huginn](https://github.com/huginn/huginn) | ⭐ 49970 | Ruby |
-| [usebruno/bruno](https://github.com/usebruno/bruno) | ⭐ 47047 | JavaScript |
-| [apache/airflow](https://github.com/apache/airflow) | ⭐ 46890 | Python |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 205382 | TypeScript |
+| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 156482 | TypeScript |
+| [microsoft/playwright](https://github.com/microsoft/playwright) | ⭐ 96364 | TypeScript |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | ⭐ 95592 | TypeScript |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ⭐ 83449 | Python |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐ 82417 | Python |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ 75337 | Python |
+| [huginn/huginn](https://github.com/huginn/huginn) | ⭐ 49971 | Ruby |
+| [usebruno/bruno](https://github.com/usebruno/bruno) | ⭐ 47060 | JavaScript |
+| [apache/airflow](https://github.com/apache/airflow) | ⭐ 46896 | Python |
 
 ---
 ## درباره این پروژه
